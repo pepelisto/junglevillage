@@ -1,1 +1,1 @@
-web: gunicorn uanama.esgi
+web: gunicorn uanama.wsgi
